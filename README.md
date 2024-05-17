@@ -1,4 +1,4 @@
 <h1>Hello</h1>
 <hr/>
 <h3>This Project is Show the reminder</h3>
-<a href="https://66475ffa089caad30a463f6a--vermillion-cascaron-aadeec.netlify.app/">Demo</a>
+<a href="https://66475ffa089caad30a463f6a--vermillion-cascaron-aadeec.netlify.app/" target="_blank">Demo</a>
